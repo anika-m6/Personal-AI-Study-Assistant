@@ -1,0 +1,6 @@
+timestamp_ist,session_id,mode,sub_mode,topic,had_pdf,prompt_chars,response_chars,visuals_enabled,visuals_detected,visuals_used
+2026-06-19T19:32:21.128162+05:30,0bf0cdd6-b723-4b6e-a20d-fb86b0f55497,🧠 Concept Explainer,,"Database Normalization (1NF, 2NF, 3NF)",0,38,11876,0,"table,mermaid,flow",1
+2026-06-19T19:34:32.336382+05:30,0bf0cdd6-b723-4b6e-a20d-fb86b0f55497,🧩 Smart Quizzer,📝 Generate Quiz,"""A deadlock is a situation where a set of processe",0,283,1998,0,flow,1
+2026-06-19T19:35:37.870450+05:30,0bf0cdd6-b723-4b6e-a20d-fb86b0f55497,🧩 Smart Quizzer,📖 Solve Questions,What is the difference between TCP and UDP,0,43,4702,0,table,1
+2026-06-19T19:38:04.102190+05:30,0bf0cdd6-b723-4b6e-a20d-fb86b0f55497,🧩 Smart Quizzer,✅ Grade Answer,Question: What is a Primary Key,0,146,1346,0,none,0
+2026-06-19T19:40:09.961476+05:30,0bf0cdd6-b723-4b6e-a20d-fb86b0f55497,📄 PDF Summarizer,,Summarize document: resume,1,30,3532,0,flow,1
